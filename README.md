@@ -1,4 +1,4 @@
-# Credit Card Behaviour Score Prediction (ccp_finclub)
+# Credit Card Behaviour Score Prediction 
 
 This repository contains the complete end-to-end pipeline for predicting credit card default probabilities using classification and risk-based modeling. The project covers data preprocessing, feature engineering of behavioral risk indicators, class balancing, model training/evaluation, and automated PDF report generation.
 
